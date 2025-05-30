@@ -17,6 +17,7 @@ https://youtu.be/AsAiEs2h9ZE
 
 ![image](https://github.com/user-attachments/assets/321a4300-0dbb-4dd8-8883-3cbad30c8a7a)
 
+DESEAS EL CODIGO FUENTE CONFIGURADO A TU GUSTO CON ALERTAS A TELEGRAM PUEDE SER CONFIGURADO Y A UN BAJO COSTO
 
 
 
