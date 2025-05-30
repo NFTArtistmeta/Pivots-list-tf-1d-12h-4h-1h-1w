@@ -6,6 +6,8 @@ Local host link  http://127.0.0.1:5000/PIVOT
 LINK DE DESCARGA
 https://drive.google.com/file/d/1cNlvdRE4JpSoJRSa8KHihXPJxIoXVR6d/view?usp=sharing
 
+https://youtu.be/AsAiEs2h9ZE
+
 ![image](https://github.com/user-attachments/assets/4cbe101e-4ac2-4003-bc0a-e6684e49a46b)
 ![image](https://github.com/user-attachments/assets/13b2b838-645b-48a4-8d78-7b6bf3119f2f)
 
